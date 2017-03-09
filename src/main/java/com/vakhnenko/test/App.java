@@ -1,5 +1,7 @@
 package com.vakhnenko.test;
 
+import com.vakhnenko.test.pack.MessagePrinter;
+import com.vakhnenko.test.pack.MessageService;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.*;
 

@@ -1,4 +1,4 @@
-package com.vakhnenko.test;
+package com.vakhnenko.test.pack;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;

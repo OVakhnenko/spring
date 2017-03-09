@@ -1,4 +1,4 @@
-package com.vakhnenko.test;
+package com.vakhnenko.test.configuration;
 
 import com.vakhnenko.test.services.GreetingService;
 import com.vakhnenko.test.services.GreetingServiceImpl;

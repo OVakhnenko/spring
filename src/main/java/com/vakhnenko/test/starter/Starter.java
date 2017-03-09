@@ -1,7 +1,7 @@
 package com.vakhnenko.test.starter;
 
 import org.apache.log4j.*;
-import com.vakhnenko.test.LessonsConfiguration;
+import com.vakhnenko.test.configuration.LessonsConfiguration;
 import com.vakhnenko.test.services.GreetingService;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
